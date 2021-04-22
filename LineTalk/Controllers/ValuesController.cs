@@ -16,7 +16,7 @@ namespace LineTalk.Controllers
         [HttpPost]
         public IHttpActionResult Post()
         {
-            string MyLineChannelAccessToken = "我是Token";
+            string MyLineChannelAccessToken = "i8eIyvfI2ON7bE37AoRsiMeKyHau7PKeZsKwGWiHnu5/WsKXbSrPs0AO2uECfYoKupclRTRsrW3nhzsXFXkqw5yIFDKrZlGahkLBu1bKuWMVthu44FGdQY5JnGbU3XcxZP6tSn7EacfZTitKj9ZMxgdB04t89/1O/w1cDnyilFU=";
 
             try
             {
